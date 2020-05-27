@@ -1,3 +1,7 @@
+# Deprecated
+
+See https://github.com/RubenBimmel/game-board
+
 # board-game-js
 
 ## Project setup
