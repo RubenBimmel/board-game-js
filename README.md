@@ -1,4 +1,4 @@
-# Deprecated
+# Archived
 
 See https://github.com/RubenBimmel/game-board
 
